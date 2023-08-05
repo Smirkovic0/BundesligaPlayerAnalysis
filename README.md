@@ -35,4 +35,4 @@ Our analysis of the Bundesliga player dataset yielded several intriguing finding
 - **Player Heights**: Goalkeepers tend to be the tallest players, while midfielders are generally shorter.
 - **Player Nationalities**: The Bundesliga boasts a diverse array of nationalities, though German players constitute the majority.
 
-[Link to the full analysis](https://github.com/YourGitHubUsername/bundesliga-player-analysis/blob/main/bundesliga-player-analysis-revised-markdown-professional.ipynb)
+[Link to the full analysis](https://github.com/Smirkovic0/BundesligaPlayerAnalysis/blob/main/Bundesliga%20Player%20Analysis.ipynb)
